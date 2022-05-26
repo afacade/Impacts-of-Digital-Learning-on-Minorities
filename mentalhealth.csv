@@ -1,0 +1,65 @@
+Location,Adults Reporting Symptoms of Anxiety Disorder,Adults Reporting Symptoms of Depressive Disorder,Adults Reporting Symptoms of Anxiety or Depressive Disorder
+Hawaii,0.207,0.185,0.269
+Delaware,0.22,0.145,0.243
+New Jersey,0.224,0.193,0.277
+North Dakota,0.225,0.186,0.262
+South Carolina,0.231,0.173,0.273
+Montana,0.234,0.158,0.259
+Iowa,0.237,0.213,0.287
+Michigan,0.237,0.192,0.28
+Wisconsin,0.237,0.184,0.274
+Colorado,0.24,0.188,0.29
+Rhode Island,0.241,0.16,0.265
+Tennessee,0.243,0.206,0.297
+Maine,0.244,0.194,0.287
+Minnesota,0.247,0.192,0.287
+New York,0.247,0.205,0.291
+Georgia,0.25,0.212,0.296
+Maryland,0.25,0.183,0.289
+Connecticut,0.253,0.171,0.289
+Nebraska,0.254,0.209,0.289
+Florida,0.255,0.198,0.287
+South Dakota,0.255,0.188,0.278
+Indiana,0.263,0.208,0.299
+Virginia,0.263,0.203,0.298
+Alabama,0.264,0.264,0.335
+New Hampshire,0.264,0.188,0.296
+Vermont,0.266,0.219,0.299
+North Carolina,0.269,0.215,0.297
+Idaho,0.273,0.183,0.301
+United States,0.273,0.217,0.315
+Illinois,0.275,0.228,0.323
+Kansas,0.277,0.214,0.313
+Massachusetts,0.277,0.198,0.322
+Utah,0.277,0.225,0.316
+Alaska,0.283,0.224,0.327
+Wyoming,0.286,0.21,0.324
+Arizona,0.287,0.25,0.344
+California,0.288,0.227,0.328
+District of Columbia,0.29,0.198,0.319
+Nevada,0.292,0.231,0.327
+Texas,0.295,0.259,0.345
+Missouri,0.296,0.223,0.335
+Ohio,0.298,0.217,0.341
+Oregon,0.301,0.244,0.347
+Pennsylvania,0.304,0.214,0.337
+West Virginia,0.306,0.246,0.34
+Washington,0.307,0.213,0.339
+New Mexico,0.313,0.24,0.34
+Mississippi,0.314,0.276,0.378
+Kentucky,0.315,0.231,0.348
+Oklahoma,0.322,0.246,0.38
+Arkansas,0.331,0.284,0.388
+Louisiana,0.352,0.261,0.379
+,,,
+Notes,,,
+"Adults having symptoms of anxiety disorder were determined based on having a score of three or greater on the Generalized Anxiety Disorder (GAD-2) scale. These adults have symptoms of anxiety that generally occur more than half the days or nearly every day. The GAD-2 questions adapted for the Household Pulse Survey are: ""Over the last 7 days, how often have you been bothered by the following problems: Feeling nervous, anxious, or on edge? Would you say not at all, several days, more than half the days, or nearly every day?"" and ""Over the last 7 days, how often have you been bothered by the following problems: Not being able to stop or control worrying? Would you say not at all, several days, more than half the days, or nearly every day?"".",,,
+"",,,
+"Adults having symptoms of depressive disorder were determined based on having a score of three or greater on the Patient Health Questionnaire (PHQ-2) scale. These adults have symptoms of depression that generally occur more than half the days or nearly every day. The PHQ-2 questions adapted for the Household Pulse Survey are: ""Over the last 7 days, how often have you been bothered by having little interest or pleasure in doing things? Would you say not at all, several days, more than half the days, or nearly every day?"" and ""Over the last 7 days, how often have you been bothered by feeling down, depressed, or hopeless? Would you say not at all, several days, more than half the days, or nearly every day?"".",,,
+"",,,
+"Data for Phase 1 was collected from April 23 - July 1, 2020. Data for Phase 2 was collected from  August 19 - October 26, 2020. Data collection for Phase 3 was collected from October 28, 2020 to March 29, 2021; with a break in collection from December 22, 2020 - January 5, 2021. Data for Phase 3.1 was collected from April 14 - July 5, 2021. Data for Phase 3.2 was collected from July 21 - October 11, 2021.  Data for Phase 3.3 was collected from December 1, 2021 - February 7, 2022. Data collection for Phase 3.4 began on March 2, 2022.",,,
+"",,,
+"For comparison, during January to June 2019, 11.0% of adults had symptoms of anxiety and/or depressive disorder, based on data from the [2019 National Heath Interview Survey](https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm).",,,
+,,,
+Sources,,,
+"KFF analysis of U.S. Census Bureau, [Household Pulse Survey, 2020-2022](https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm).",,,
